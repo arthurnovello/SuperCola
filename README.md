@@ -1,0 +1,2 @@
+# SuperCola
+Copy/Paste Manager
